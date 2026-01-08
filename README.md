@@ -17,7 +17,7 @@
 ## 📦 Встановлення та запуск
 
 1. **Клонуйте репозиторій:**
-   git clone [https://github.com/ваш-логін/audio-processor.git](https://github.com/ваш-логін/audio-processor.git)
+   git clone [https://github.com/ваш-логін/audio-processor.git](https://github.com/ruslankonovalov-dot/audio-processor.git)
    cd audio-processor
 2. **Налаштуйте віртуальне оточення:**
     python -m venv venv
